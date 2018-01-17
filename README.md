@@ -1,1 +1,1 @@
-this is my app
+my wordpress app
