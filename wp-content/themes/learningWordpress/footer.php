@@ -1,5 +1,5 @@
 	<footer class="site-footer">
-		
+		hello
 		<?php if (get_theme_mod('lwp-footer-callout-display') == "Yes") { ?>
 		<div class="footer-callout clearfix">
 			<div class="footer-callout-image">
